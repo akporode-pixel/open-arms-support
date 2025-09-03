@@ -1,2 +1,8 @@
-# open-arms-support
-data analysis of open arms women and childs outreach int'l support programme
+open-arms-education-support/
+│── README.md
+│── data/
+│   └── education_support.csv
+│── notebooks/
+│   └── education_support_analysis.ipynb
+│── images/
+│   └── support_distribution.png
